@@ -37,7 +37,6 @@ Please feel free to put a pull request!
 
 ## Twitter  
 - [Nitter](https://github.com/zedeus/nitter) (no JS)  
-- [Fritter](https://github.com/jonjomckay/fritter) (mobile, minimal JS)  
 
 ## Instagram  
 - No known no-JS alternatives  
@@ -84,7 +83,7 @@ Please feel free to put a pull request!
 - No known no-JS alternatives  
 
 ## Spotify  
-- [Psst](https://github.com/jpochyla/psst) (desktop client, privacy-focused)  
+- No known no-JS alternatives  
 
 ## Twitch  
 - No known no-JS alternatives  
