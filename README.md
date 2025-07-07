@@ -4,6 +4,30 @@ A list of alternatives to websites that don't include JavaScript.
 
 Please feel free to put a pull request!
 
+# Table of Contents
+
+* [Google](#google)
+* [Facebook](#facebook)
+* [Twitter](#twitter)
+* [Instagram](#instagram)
+* [Reddit](#reddit)
+* [Wikipedia](#wikipedia)
+* [YouTube](#youtube)
+* [TikTok](#tiktok)
+* [LinkedIn](#linkedin)
+* [Pinterest](#pinterest)
+* [Snapchat](#snapchat)
+* [Tumblr](#tumblr)
+* [Vimeo](#vimeo)
+* [Medium](#medium)
+* [Quora](#quora)
+* [Etsy](#etsy)
+* [Netflix](#netflix)
+* [Spotify](#spotify)
+* [Twitch](#twitch)
+* [Discord](#discord)
+
+
 ## Google  
 - [Whoogle](https://github.com/benbusby/whoogle-search) (search, no JS)  
 - [SearXNG](https://github.com/searxng/searxng) (meta search, no JS)  
